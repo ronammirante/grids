@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Canuck Crosswords</title>
+    <link>https://ronammirante.github.io/grids/</link>
+    <description>American-style crosswords with Canadian content</description>
+
+    <item>
+      <title>CANUCK CROSSWORD #1 — November 20, 2026</title>
+      <link>https://ronammirante.github.io/grids/</link>
+      <description>CANUCK CROSSWORD #1, published November 20, 2026.</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>CANUCK CROSSWORD #1</guid>
+    </item>
+
+  </channel>
+</rss>
