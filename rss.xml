@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
   <channel>
     <title>Canuck Crosswords</title>
     <link>https://ronammirante.github.io/grids/</link>
@@ -11,6 +11,7 @@
       <description>CANUCK CROSSWORD #1, published November 20, 2026.</description>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <guid>CANUCK CROSSWORD #1</guid>
+      <dc:creator>Ron Ammirante</dc:creator>
     </item>
 
   </channel>
